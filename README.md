@@ -12,7 +12,7 @@
         <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
         <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
        <a href="https://varlei-decesare.vercel.app/">
-                <img align="right" height="40" width="40" src="https://static.vecteezy.com/system/resources/thumbnails/000/576/222/small/icon0-vector-438-01.jpg">  
+                #### Acesse meu site<img align="right" height="40" width="40" src="https://static.vecteezy.com/system/resources/thumbnails/000/576/222/small/icon0-vector-438-01.jpg">  
         </a>
         
         
