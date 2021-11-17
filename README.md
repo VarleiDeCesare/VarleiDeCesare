@@ -19,6 +19,9 @@
 <div> 
   <a href="https://instagram.com/varlei_cesare" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:varleidecesare2222@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+       
+<a href = "https://varlei-decesare.vercel.app/" target="blank"><img src="https://img.icons8.com/material-outlined/24/000000/domain.png"/></a>
+        
   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/varlei-de-cesare-7283741ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
         
