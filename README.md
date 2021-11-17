@@ -11,7 +11,8 @@
         <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
         <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
         <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
-        <div><a href="https://www.freepik.com"></a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+        <img align="right" height="30" width="40" src="https://img.icons8.com/color/24/000000/domain--v1.png">  
+        
 </div>
   
   ##
