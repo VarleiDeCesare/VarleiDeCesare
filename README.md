@@ -11,7 +11,7 @@
         <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
         <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
         <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
-        <img align="right" height="30" width="40" src="https://fashionsista.co/downloadpng/png/20201005/white-website-icon-png-216035-free-ic-258477-png.jpg">  
+        <img align="right" height="30" width="40" src="https://static.vecteezy.com/system/resources/thumbnails/000/576/222/small/icon0-vector-438-01.jpg">  
         
 </div>
   
