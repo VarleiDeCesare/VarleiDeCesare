@@ -1,4 +1,7 @@
 ### Olá! Eu sou o Varlei De Cesare, desenvolvedor Full-Stack
+###🖱️ Acesse meu site de portfólio em: https://varlei-decesare.vercel.app/
+###⚡ Acesse meu Linkedin em: https://www.linkedin.com/in/varlei-de-cesare-7283741ab/
+
 <div align="center">
         <a href="https://github.com/VarleiDeCesare">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VarleiDeCesare&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -10,12 +13,6 @@
         <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
         <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
         <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-        <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
-        <a href="https://varlei-decesare.vercel.app/" >
-                <img  height="40" width="40" align="right" src="https://static.vecteezy.com/system/resources/thumbnails/000/576/222/small/icon0-vector-438-01.jpg">  
-        </a>
-        
-        
 </div>
   
   ##
