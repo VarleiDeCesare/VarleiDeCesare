@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Varlei De Cesare, desenvolvedor Full-Stack
-###🖱️ Acesse meu site de portfólio em: https://varlei-decesare.vercel.app/
-###⚡ Acesse meu Linkedin em: https://www.linkedin.com/in/varlei-de-cesare-7283741ab/
+### 🖱️ Acesse meu site de portfólio em: https://varlei-decesare.vercel.app/
+### ⚡ Acesse meu Linkedin em: https://www.linkedin.com/in/varlei-de-cesare-7283741ab/
 
 <div align="center">
         <a href="https://github.com/VarleiDeCesare">
