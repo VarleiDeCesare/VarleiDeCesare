@@ -1,6 +1,6 @@
 <div align="center">
         <h3>Varlei De Cesare, desenvolvedor Full-Stack Node</h3>
-        <h4>Linkedin <a href="https://www.linkedin.com/in/varlei-de-cesare-7283741ab/">Clicando Aqui</a></h4>
+        <a href="https://www.linkedin.com/in/varlei-de-cesare-7283741ab/">Linkedin</a>
 </div>
 <div align="center">
         <a href="https://github.com/VarleiDeCesare">
